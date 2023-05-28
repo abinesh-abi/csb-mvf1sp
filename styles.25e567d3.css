@@ -1,0 +1,2 @@
+body{display:grid;justify-content:center;height:100vh;width:100vh}.container,body{align-items:center}.container{background:grey;width:90vh;height:300px;display:flex;gap:20px;overflow-x:auto;scroll-snap-type:x mandatory}.container .child{scroll-snap-align:center}.child{flex:0 0 auto;width:90%;height:90%;background:#6495ed;border:1px solid #000}.container :first-child{margin-left:5vh}.container :last-child{margin-right:5vh}.wraper{position:relative}
+/*# sourceMappingURL=/csb-mvf1sp/styles.25e567d3.css.map */
